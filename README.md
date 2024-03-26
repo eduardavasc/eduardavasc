@@ -1,4 +1,4 @@
-### Olá!
+### Hello, you!
 
 <!--
 **onlyArsh/onlyArsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,17 +16,28 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🤔 &nbsp; Descobrindo novos métodos para resolver problemas.
-- 🎓 &nbsp; Estudante de administração em transição de carreira para a área de tecnologia.
+- Prazer, meu nome é Maria Eduarda, sou estudante de administração em transição de carreira para a área de tecnologia atualmente cursando ADS. Estou sempre buscando novos métodos para resolver problemas e expandir meus conhecimentos em desenvolvimento de software.
 
 <h3>🛠 Tecnologias</h3>
 
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<img loading="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img loading="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/> <img loading="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/> <img loading="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img loading="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img loading="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
+
+
+
+
+
+
+
 
 ### 📫🤝🏻 Contato
 
  - Meu perfil no LinkedIn [LinkedIn](https://www.linkedin.com/in/mariaeduardavasconcelos/) 👨🏻‍💻
  - Email [Email](mailto:eduuardavasconcelos@gmail.com) 💌
  - Perfil do GitHub[GitHub Profile](https://github.com/eduardavasc)
+
+ <div>
+  <a href="https://github.com/eduardavasc">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavasc&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardavasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
