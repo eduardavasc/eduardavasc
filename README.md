@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- Prazer, meu nome é Maria Eduarda, sou estudante de administração em transição de carreira para a área de tecnologia atualmente cursando ADS. Estou sempre buscando novos métodos para resolver problemas e expandir meus conhecimentos em desenvolvimento de software.
+- Prazer, meu nome é Maria Eduarda Vasconcelos, sou estudante de administração em transição de carreira para a área de tecnologia, atualmente cursando ADS.
 
 <h3>🛠 Tecnologias</h3>
 
@@ -38,6 +38,6 @@ Here are some ideas to get you started:
  <div>
   <a href="https://github.com/eduardavasc">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavasc&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://camo.githubusercontent.com/21a412924c3eee9f7c4856880ef3f849753ed27c1b0a1bb74f252babe1e321f0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d65647561726461766173632673686f775f69636f6e733d74727565267468656d653d64726163756c6126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565"/>
+
   </a>
 </div>
