@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- Prazer, meu nome é Maria Eduarda Vasconcelos, sou estudante de administração em transição de carreira para a área de tecnologia, atualmente cursando ADS.
+- Prazer, meu nome é Maria Eduarda Vasconcelos, sou estudante de administração e ADS, atuando atualmente como desenvolvedora fullstack.
 
 <h3>🛠 Tecnologias</h3>
 
